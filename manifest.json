@@ -1,0 +1,21 @@
+{
+  "name": "Shaun Stanworth at shaunbuilds.com",
+  "short_name": "shaunbuilds.com",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#FAFF04",
+  "description": "I’m Shaun Stanworth, and I help teams to build technology, product, and strategy through hands-on engineering leadership",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#001C36"
+}
