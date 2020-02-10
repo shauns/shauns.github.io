@@ -21391,7 +21391,14 @@ var TextNavItem = styled_components__WEBPACK_IMPORTED_MODULE_7__["default"].li.w
 var NavLink = styled_components__WEBPACK_IMPORTED_MODULE_7__["default"].a.withConfig({
   displayName: "pages__NavLink",
   componentId: "sc-6pgrpc-8"
-})(["color:#001c36;text-decoration:none;&:hover,&:focus,& > *:hover,& > *:focus{color:#0c467a;transform:scale(1.2);transition:color 0.2s,transform 0.2s;}"]);
+})(["color:#001c36;text-decoration:none;transition:color 0.2s,transform 0.2s;&:hover,&:focus,& > *:hover,& > *:focus{color:#0c467a;transform:scale(1.2);}"]);
+
+var BlogItem = __jsx(TextNavItem, null, __jsx(NavLink, {
+  title: "https://shaun.substack.com/",
+  href: "https://shaun.substack.com/",
+  target: "_blank",
+  rel: "noopener noreferrer"
+}, "Blog"));
 
 var Home = function Home() {
   var _React$useState = react__WEBPACK_IMPORTED_MODULE_3__["useState"](false),
@@ -21461,7 +21468,7 @@ var Home = function Home() {
     count: "Growth.".length,
     delay: 1200
   })) : null), __jsx(Separator, null), __jsx("nav", null, __jsx(NavOptions, null, __jsx("li", null, __jsx(NavLink, {
-    href: "mailto:shaun.stanworth@googlemail.com?subject=I+saw+your+website",
+    href: "mailto:shaun.stanworth@googlemail.com?subject=Hello!",
     target: "_blank",
     rel: "noopener noreferrer",
     title: "shaun.stanworth@googlemail.com"
@@ -21481,14 +21488,9 @@ var Home = function Home() {
     title: "Twitter"
   }, __jsx(react_icons_fa__WEBPACK_IMPORTED_MODULE_4__["FaTwitter"], {
     size: "1.8em"
-  }))), __jsx(TextNavItem, null, __jsx(NavLink, {
-    title: "https://shaun.substack.com/",
-    href: "https://shaun.substack.com/",
-    target: "_blank",
-    rel: "noopener noreferrer"
-  }, "Blog")))), __jsx(AboutMe, null, __jsx(Portrait, {
+  }))), __jsx("li", null, BlogItem))), __jsx(AboutMe, null, __jsx(Portrait, {
     src: "/portrait-greyscale.jpg",
-    alt: "Portrait of Shaun"
+    alt: "Portrait of Me"
   }), __jsx("div", null, __jsx("p", null, "I\u2019m Shaun Stanworth, and I help teams to build technology, product, and strategy", " ", __jsx("strong", null, "through hands-on engineering leadership"), ". With lead-level experience in a range of technologies \u2014 from Python to PostgreSQL, and React to AWS \u2014 I optimise a product roadmap and engineering strategy that", " ", __jsx("strong", null, "helps you rapidly build and iterate"), " on native mobile apps, web apps, and backends."), __jsx("p", null, __jsx("strong", null, "Currently:"), " Director of Technology @ Freeformers"))));
 };
 
