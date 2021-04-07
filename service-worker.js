@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "url": "/_next/static/__mA1wxfH659gj7jHZnQY/_buildManifest.js",
+    "url": "/_next/static/VsqeavsL4AAVNSsy-9xFf/_buildManifest.js",
     "revision": "538b8f4a298241be7ceeb49190fc5ae5"
   },
   {
-    "url": "/_next/static/__mA1wxfH659gj7jHZnQY/pages/_app.js",
-    "revision": "ebd80445d8f3eb7bb4bb"
+    "url": "/_next/static/VsqeavsL4AAVNSsy-9xFf/pages/_app.js",
+    "revision": "c9b30d4598ee16177803"
   },
   {
-    "url": "/_next/static/__mA1wxfH659gj7jHZnQY/pages/_error.js",
-    "revision": "83ac852bd4ed8a7e80dc"
+    "url": "/_next/static/VsqeavsL4AAVNSsy-9xFf/pages/_error.js",
+    "revision": "b38a694c0c97c98f4aaf"
   },
   {
-    "url": "/_next/static/__mA1wxfH659gj7jHZnQY/pages/index.js",
-    "revision": "610c9346ece3102a2acd"
+    "url": "/_next/static/VsqeavsL4AAVNSsy-9xFf/pages/index.js",
+    "revision": "7e9ea468ba1968f9c9c5"
   },
   {
     "url": "/_next/static/chunks/1bfc9850.ef19afdb397351ee8a45.js",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "revision": "8d1a1b78b2e60ccbf65c"
   },
   {
-    "url": "/_next/static/chunks/commons.91db29748fe1635ed6ff.js",
-    "revision": "2d7071822f76ca888f5d"
+    "url": "/_next/static/chunks/95873029f47ab57de4ed575d4928b2fc537f6d61.f5868fc0f53466aa6279.js",
+    "revision": "06ee3fe11da2deb2528c"
   },
   {
-    "url": "/_next/static/chunks/fb6dfa652308c166bb387a947dcf5b2a8a1699a7.2133b5658f5b118d7281.js",
-    "revision": "60b0fd631a655a9dd331"
+    "url": "/_next/static/chunks/commons.91db29748fe1635ed6ff.js",
+    "revision": "2d7071822f76ca888f5d"
   },
   {
     "url": "/_next/static/chunks/framework.94bc9fd9a7de53a90996.js",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "revision": "ba88bfb2a5e493ec524b"
   },
   {
-    "url": "/_next/static/runtime/main-69db8525e97bd90ba0d3.js",
-    "revision": "f0798fa0d2278fc25d97"
+    "url": "/_next/static/runtime/main-a9b38ab962f9ad5cb518.js",
+    "revision": "f95db2525e476645b095"
   },
   {
     "url": "/_next/static/runtime/polyfills-94f0186407335ec616c3.js",
